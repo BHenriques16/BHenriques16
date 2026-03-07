@@ -1,58 +1,152 @@
-<h2 align="center">Olá, eu sou o [Teu Nome]. Bem-vindo ao meu portfólio! 👋</h2>
-<h4 align="center">Estudante de IA e Ciência de Dados na UBI | Especialista em Machine Learning & RAG Systems</h4>
-
-<br />
-
 <div align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-  
-  ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?logo=chroma&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+  <h1>
+    <strong>Hey</strong>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave">
+    <strong>I'm [Your Name]</strong>
+  </h1>
+  <p>
+    🤖 AI & Data Science Student | 🏛️ UBI | 👁️ Computer Vision | 💬 NLP & LLMs | 🇵🇹 Portugal
+  </p>
+  <p>
+    <em>
+      <a href="https://github.com/[YourUsername]">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=AI+%26+Data+Science+Student+at+UBI+%F0%9F%87%B5%F0%9F%87%B9;Focused+on+RAG+Architectures+and+Computer+Vision;Expected+Graduation+June+2026" alt="Typing SVG" />
+      </a>
+    </em>
+  </p>
 </div>
 
-<br />
+---
 
-### 🧠 Sobre Mim
+<h2>🙋 About Me</h2>
 
-Sou finalista da licenciatura em **Inteligência Artificial e Ciência de Dados** na **Universidade da Beira Interior**. O meu percurso foca-se em transformar dados complexos em decisões inteligentes e modelos explicáveis.
+<div align="left">
 
-* 🎓 **Formação:** Finalizo a licenciatura em junho de 2026, com foco em Deep Learning e NLP.
-* 🌱 **Aprendizagem Atual:** Aprofundar conhecimentos em Large Language Models (LLMs) e arquiteturas RAG.
-* 👯 **Colaboração:** Aberto a projetos inovadores na área de Visão por Computador e Engenharia de IA.
-* ✉️ **Contacto:** [teu-email@dominio.com]
+<h3>🌟 Who I am</h3>
+<p>
+  <strong>AI & Data Science student</strong> at 
+  <a href="https://www.ubi.pt/curso/1304"><strong>Universidade da Beira Interior</strong></a>, 
+  passionate about building intelligent systems that are not only powerful but also <strong>interpretable and trustworthy</strong>. 
+  I bridge the gap between complex data and actionable insights through Deep Learning and Generative AI.
+</p>
+
+<h3>📚 Currently Studying</h3>
+<ul>
+  <li>🎓 <strong>BSc in AI & Data Science</strong> @ UBI (Final Year)</li>
+  <li><strong>Large Language Models (LLMs)</strong> — RAG architectures, local serving with Ollama & LangChain.</li>
+  <li><strong>Advanced Computer Vision</strong> — CNN optimization, Transfer Learning & semantic segmentation.</li>
+  <li><strong>XAI</strong> — Explainable AI and quantitative validation of model decisions.</li>
+</ul>
+
+<h3>🎯 Vision</h3>
+<p>
+  To become an <strong>AI Engineer</strong> specializing in <strong>Generative AI (RAG)</strong> and 
+  <strong>Robust Vision Systems</strong>, focusing on making AI models more transparent and efficient.
+</p>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/[YourUsername]?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=githubsponsors&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/[YourUsername]&query=$.public_repos&label=Public%20Repos&style=flat&color=34a89d&labelColor=0d1117&logo=git&logoColor=white" alt="Public Repos"/>
+</p>
 
 ---
 
-### 📂 Projetos em Destaque
+<h2>🛠️ Tech Stack</h2>
 
-| Projeto | Descrição | Tech Stack |
-| :--- | :--- | :--- |
-| **[Financial RAG Analyst](TEU_LINK)** | QA System para análise de relatórios 10-Q com Llama 3.2. | `Ollama`, `LangChain`, `ChromaDB` |
-| **[XAI Face Analysis](TEU_LINK)** | Validação quantitativa de interpretabilidade em modelos CNN. | `PyTorch`, `LIME`, `Grad-CAM` |
-| **[Waste Classification](TEU_LINK)** | Classificação de contentores urbanos para Smart Cities. | `Transfer Learning`, `Focal Loss` |
+<h3>🤖 AI & Machine Learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<h3>📊 Data Science & Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Estatísticas e Atividade
+<details open>
+  <summary><h2>🚀 Featured Projects</h2></summary>
+
+  <br>
+
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>💬 <a href="https://github.com/[YourUsername]/RAG-Financial-Analyst">Financial RAG Analyst</a></h3>
+        <p>A Document QA system built with <strong>LangChain</strong> and <strong>Ollama (Llama 3.2)</strong>. Analyzes financial reports using vector search and source citation to prevent hallucinations.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=chroma&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>👁️ <a href="https://github.com/[YourUsername]/XAI-Face-Interpretabilidade">XAI Face Analysis</a></h3>
+        <p>Research on <strong>Interpretability methods</strong> (Grad-CAM, LIME) applied to facial classification. Innovation: Quantitative validation using anatomical segmentation masks (IoU).</p>
+        <p>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/XAI-FF6F61?style=flat-square&logo=deepnote&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>♻️ <a href="https://github.com/[YourUsername]/Waste-Container-Classification">Smart Waste Manager</a></h3>
+        <p>Deep Learning system for urban container classification. Uses <strong>Transfer Learning</strong> (EfficientNet) and <strong>Focal Loss</strong> to handle class imbalance in smart city datasets.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Transfer_Learning-orange?style=flat-square"/>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🧠 <a href="https://github.com/[YourUsername]/CNN-Optimization">CNN SOTA Optimization</a></h3>
+        <p>Performance optimization of CNNs on CIFAR-10, implementing advanced techniques like <strong>SE-Blocks</strong>, <strong>MixUp</strong>, and <strong>Cosine Annealing</strong>.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+</details>
+
+---
+
+<details>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+  <p align="center">
+    <a href="https://github.com/[YourUsername]" target="_blank">
+      <img title="🔥 Streak Stats" alt="Streak" src="https://streak-stats.demolab.com?user=[YourUsername]&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=34a89d&sideLabels=34a89d&dates=70a5fd&hide_border=true" height="180px"/>
+    </a>
+  </p>
+</details>
+
+---
+
+## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/TEU_USER">
-    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=TEU_USER&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <a href="https://www.linkedin.com/in/[SeuLinkLinkedin]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/TEU_USER">
-    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=TEU_USER&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="mailto:[SeuEmail]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+---
+
+<h6 align="center">Built with passion and data by <strong>[Your Name]</strong></h6>
