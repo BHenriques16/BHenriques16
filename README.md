@@ -5,7 +5,7 @@
     <strong>I'm [Your Name]</strong>
   </h1>
   <p>
-    🤖 AI & Data Science Student | 🏛️ UBI | 👁️ Computer Vision | 💬 NLP & LLMs | 🇵🇹 Portugal
+    🤖 AI & Data Science Student | 🏛️ UBI | 🧪 Data Science | 💬 NLP & LLMs | 🤖 Agentic AI | 🇵🇹 Portugal
   </p>
   <p>
     <em>
@@ -24,25 +24,18 @@
 
 <h3>🌟 Who I am</h3>
 <p>
-  <strong>AI & Data Science student</strong> at 
-  <a href="https://www.ubi.pt/curso/1304"><strong>Universidade da Beira Interior</strong></a>, 
-  passionate about building intelligent systems that are not only powerful but also <strong>interpretable and trustworthy</strong>. 
-  I bridge the gap between complex data and actionable insights through Deep Learning and Generative AI.
+  <strong>As a final-year AI & Data Science student</strong> at 
+  <a href="https://www.ubi.pt/curso/1304"><strong>Universidade da Beira Interior</strong></a>, I am currently bridging the gap between academic excellence and professional practice.
+  My journey is driven by a deep fascination with Agentic AI and Large Language Models (LLMs), focusing on how autonomous agents can transform complex data into strategic actions.
 </p>
 
 <h3>📚 Currently Studying</h3>
 <ul>
   <li>🎓 <strong>BSc in AI & Data Science</strong> @ UBI (Final Year)</li>
   <li><strong>Large Language Models (LLMs)</strong> — RAG architectures, local serving with Ollama & LangChain.</li>
-  <li><strong>Advanced Computer Vision</strong> — CNN optimization, Transfer Learning & semantic segmentation.</li>
-  <li><strong>XAI</strong> — Explainable AI and quantitative validation of model decisions.</li>
+  <li><strong>Computer Vision</strong> — CNN optimization, Transfer Learning & semantic segmentation.</li>
+  <li><strong>Data Science & ML</strong> — Predictive modeling, statistical analysis, and handling class imbalance in real-world datasets.</li>
 </ul>
-
-<h3>🎯 Vision</h3>
-<p>
-  To become an <strong>AI Engineer</strong> specializing in <strong>Generative AI (RAG)</strong> and 
-  <strong>Robust Vision Systems</strong>, focusing on making AI models more transparent and efficient.
-</p>
 
 </div>
 
@@ -60,20 +53,28 @@
 
 <h3>🤖 AI & Machine Learning</h3>
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-<h3>📊 Data Science & Tools</h3>
+<h3>📊 Data & Analytics</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h3>⚒️ Tools & Environment</h3>
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
 
 ---
