@@ -92,7 +92,7 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3>💬 <a href="https://github.com/[YourUsername]/RAG-Financial-Analyst">Financial RAG Analyst</a></h3>
+        <h3>💬 <a href="https://github.com/BHenriques16/Financial_Report_Insight">Financial RAG Analyst</a></h3>
         <p>A Document QA system built with <strong>LangChain</strong> and <strong>Ollama</strong>. Analyzes financial reports using vector search and source citation to prevent hallucinations.</p>
         <p>
           <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
@@ -100,7 +100,7 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3>👁️ <a href="https://github.com/[YourUsername]/XAI-Face-Interpretabilidade">XAI Face Analysis</a></h3>
+        <h3>👁️ <a href="https://github.com/BHenriques16/interpretability_project">XAI Face Analysis</a></h3>
         <p>Research on <strong>Interpretability methods</strong> (Grad-CAM, LIME) applied to facial classification. Innovation: Quantitative validation using anatomical segmentation masks (IoU).</p>
         <p>
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -110,7 +110,7 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>♻️ <a href="https://github.com/[YourUsername]/Waste-Container-Classification">Smart Waste Manager</a></h3>
+        <h3>♻️ <a href="https://github.com/BHenriques16/image_classification">Smart Waste Manager</a></h3>
         <p>Deep Learning system for urban container classification. Uses <strong>Transfer Learning</strong> and <strong>Focal Loss</strong> to handle class imbalance in smart city datasets.</p>
         <p>
           <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
@@ -118,7 +118,7 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3>🧠 <a href="https://github.com/[YourUsername]/CNN-Optimization">CNN SOTA Optimization</a></h3>
+        <h3>🧠 <a href="https://github.com/BHenriques16/cifar10-sota-replication">CNN SOTA Optimization</a></h3>
         <p>Performance optimization of CNNs on CIFAR-10, implementing advanced techniques like <strong>SE-Blocks</strong>, <strong>MixUp</strong>, and <strong>Cosine Annealing</strong>.</p>
         <p>
           <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -133,10 +133,10 @@
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[SeuLinkLinkedin]">
+  <a href="https://www.linkedin.com/in/bernardo-vieira-henriques-528784292/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[bernardovhenriques@gmail.com]">
+  <a href="mailto:bernardovhenriques@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
