@@ -93,7 +93,7 @@
     <tr>
       <td width="50%" valign="top">
         <h3>💬 <a href="https://github.com/[YourUsername]/RAG-Financial-Analyst">Financial RAG Analyst</a></h3>
-        <p>A Document QA system built with <strong>LangChain</strong> and <strong>Ollama (Llama 3.2)</strong>. Analyzes financial reports using vector search and source citation to prevent hallucinations.</p>
+        <p>A Document QA system built with <strong>LangChain</strong> and <strong>Ollama</strong>. Analyzes financial reports using vector search and source citation to prevent hallucinations.</p>
         <p>
           <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
           <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=chroma&logoColor=white"/>
@@ -111,7 +111,7 @@
     <tr>
       <td width="50%" valign="top">
         <h3>♻️ <a href="https://github.com/[YourUsername]/Waste-Container-Classification">Smart Waste Manager</a></h3>
-        <p>Deep Learning system for urban container classification. Uses <strong>Transfer Learning</strong> (EfficientNet) and <strong>Focal Loss</strong> to handle class imbalance in smart city datasets.</p>
+        <p>Deep Learning system for urban container classification. Uses <strong>Transfer Learning</strong> and <strong>Focal Loss</strong> to handle class imbalance in smart city datasets.</p>
         <p>
           <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
           <img src="https://img.shields.io/badge/Transfer_Learning-orange?style=flat-square"/>
@@ -121,7 +121,7 @@
         <h3>🧠 <a href="https://github.com/[YourUsername]/CNN-Optimization">CNN SOTA Optimization</a></h3>
         <p>Performance optimization of CNNs on CIFAR-10, implementing advanced techniques like <strong>SE-Blocks</strong>, <strong>MixUp</strong>, and <strong>Cosine Annealing</strong>.</p>
         <p>
-          <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/>
         </p>
       </td>
     </tr>
