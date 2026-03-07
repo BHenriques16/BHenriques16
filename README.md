@@ -2,7 +2,7 @@
   <h1>
     <strong>Hey</strong>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave">
-    <strong>I'm [Your Name]</strong>
+    <strong>I'm Bernardo Vieira Henriques</strong>
   </h1>
   <p>
     🤖 AI & Data Science Student | 🏛️ UBI | 🧪 Data Science | 💬 NLP & LLMs | 🤖 Agentic AI | 🇵🇹 Portugal
@@ -129,18 +129,6 @@
 
 </details>
 
----
-
-<details>
-  <summary><h2>📊 GitHub Stats</h2></summary>
-  <p align="center">
-    <a href="https://github.com/[YourUsername]" target="_blank">
-      <img title="🔥 Streak Stats" alt="Streak" src="https://streak-stats.demolab.com?user=[YourUsername]&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=34a89d&sideLabels=34a89d&dates=70a5fd&hide_border=true" height="180px"/>
-    </a>
-  </p>
-</details>
-
----
 
 ## 🔗 Let's Connect
 
@@ -148,11 +136,11 @@
   <a href="https://www.linkedin.com/in/[SeuLinkLinkedin]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[SeuEmail]">
+  <a href="mailto:[bernardovhenriques@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<h6 align="center">Built with passion and data by <strong>[Your Name]</strong></h6>
+<h6 align="center">Built with passion and data by <strong>Bernardo Vieira Henriques</strong></h6>
