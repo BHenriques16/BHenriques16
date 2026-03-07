@@ -10,7 +10,7 @@
   <p>
     <em>
       <a href="https://github.com/[YourUsername]">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=AI+%26+Data+Science+Student+at+UBI+%F0%9F%87%B5%F0%9F%87%B9;Focused+on+RAG+Architectures+and+Computer+Vision;Expected+Graduation+June+2026" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=AI+%26+Data+Science+Student+at+UBI+%F0%9F%87%B5%F0%9F%87%B9;Graduation+June+2026" alt="Typing SVG" />
       </a>
     </em>
   </p>
