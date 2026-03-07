@@ -39,14 +39,6 @@
 
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/[YourUsername]?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=githubsponsors&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/[YourUsername]&query=$.public_repos&label=Public%20Repos&style=flat&color=34a89d&labelColor=0d1117&logo=git&logoColor=white" alt="Public Repos"/>
-</p>
-
 ---
 
 <h2>🛠️ Tech Stack</h2>
